@@ -47,7 +47,7 @@ I have also worked upon native OS Applications made using Electron framework.
 
 
 ## Other
-<img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=GNU Bash&logoColor=white">  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/gitlab-%23F08533.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-%234b7186.svg?style=for-the-badge&logo=jenkins&logoColor=black">  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=white">  <img src="https://img.shields.io/badge/CMD-%23121011.svg?style=for-the-badge&logo=Windows%20Terminal&logoColor=white"> <img src="https://img.shields.io/badge/Pwsh-%23121011.svg?style=for-the-badge&logo=Powershell&logoColor=white"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/gitlab-%23F08533.svg?style=for-the-badge&logo=gitlab&logoColor=white">
 
 
 ## OS
