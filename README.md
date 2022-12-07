@@ -6,22 +6,6 @@ I majorly work on IOT Projects using
 - `Javascript`
 - `Python`
 
-I also Specialize and have good experience in [Progressive web applications (PWAs)]() and its connectivity to IOT Devices.  
-
-The following is a list of IOT Devices that I have Worked upon :
-- [ESP-32]()
-- [NODE MCU]()
-- [ESP-01]()
-- [Generic ESP-8266 Boards]()
-- [Arduino Uno]()
-- [Arduino Nano]()
-- [Arduino Micro]()
-- [Arduino Mega]()
-- [LilyPad]()
-- [Generic Adafruit Boards]()
-
-I have also worked upon native OS Applications made using Electron framework.
-
 ## Languages
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">  <img src="https://img.shields.io/badge/Embedded C-%23239120.svg?style=for-the-badge&logo=Arduino&logoColor=white">  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
 
@@ -41,6 +25,25 @@ I have also worked upon native OS Applications made using Electron framework.
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Kali-%23121011?style=for-the-badge&logo=kalilinux&logoColor=white"> 
 
 &nbsp;  
+
+
+I also Specialize and have good experience in [Progressive web applications (PWAs)]() and its connectivity to IOT Devices.  
+
+The following is a list of IOT Devices that I have Worked upon :
+- [ESP-32]()
+- [NODE MCU]()
+- [ESP-01]()
+- [Generic ESP-8266 Boards]()
+- [Arduino Uno]()
+- [Arduino Nano]()
+- [Arduino Micro]()
+- [Arduino Mega]()
+- [LilyPad]()
+- [Generic Adafruit Boards]()
+
+I have also worked upon native OS Applications made using Electron framework.
+
+&nbsp; 
 
 [![Gunpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunnnu&theme=monokai&bg_color=00000020&hide_border=true&show_icons=true&hide=stars)](https://github.com/gunnnu#gh-dark-mode-only)
 [![Gunpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunnnu&theme=buefy&bg_color=FFFFFF80&hide_border=true&show_icons=true&hide=stars)](https://github.com/gunnnu#gh-light-mode-only)
