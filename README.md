@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Gunpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunnnu&theme=monokai&bg_color=00000020&show_icons=true&hide=stars)](https://github.com/gunnnu/)
+[![Gunpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunnnu&theme=monokai&bg_color=00000020&hide_border=true&show_icons=true&hide=stars)](https://github.com/gunnnu#gh-dark-mode-only)
+[![Gunpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunnnu&theme=buefy&bg_color=FFFFFF80&hide_border=true&show_icons=true&hide=stars)](https://github.com/gunnnu#gh-light-mode-only)
 
 <!--
 stars,commits,prs,issues,contribs
