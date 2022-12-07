@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Gunpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunnnu&theme=codeSTACKr&bg_color=00000055&show_icons=true&hide=stars)](https://github.com/gunnnu/)
+[![Gunpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunnnu&theme=monokai&bg_color=00000020&show_icons=true&hide=stars)](https://github.com/gunnnu/)
 
 <!--
 stars,commits,prs,issues,contribs
