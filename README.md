@@ -18,19 +18,20 @@ I majorly work on IOT Projects using
 - `Python`
 
 
-I also Specialize and have good experience in [Progressive web applications (PWAs)]() Development and its connectivity to IOT Devices.  
+I also Specialize and have good experience in [Progressive web applications (PWAs)](https://web.dev/progressive-web-apps) Development and its connectivity to IOT Devices.  
 
 The following is a list of IOT Devices that I have Worked upon :
-- [ESP-32]()
-- [NODE MCU]()
-- [ESP-01]()
-- [Generic ESP-8266 Boards]()
-- [Arduino Uno]()
-- [Arduino Nano]()
-- [Arduino Micro]()
-- [Arduino Mega]()
-- [LilyPad]()
-- [Generic Adafruit Boards]()
+- [ESP-32](https://www.espressif.com/en/products/socs/esp32)
+- [NODE MCU](https://nodemcu.readthedocs.io/en/release/)
+- [ESP-01](https://simba-os.readthedocs.io/en/latest/boards/esp01.html)
+- [Generic ESP-8266 Boards](https://www.espressif.com/en/products/socs/esp8266)
+- [Arduino Uno](https://store-usa.arduino.cc/products/arduino-uno-rev3)
+- [Arduino Nano](https://store-usa.arduino.cc/products/arduino-nano)
+- [Arduino Micro](https://store-usa.arduino.cc/products/arduino-micro)
+- [Arduino Mega](https://store-usa.arduino.cc/products/arduino-mega-2560-rev3)
+- [Arduino LilyPad](https://docs.arduino.cc/retired/boards/lilypad-arduino-main-board)
+- [Generic Adafruit Boards](https://www.adafruit.com/category/851)
+- [Raspberry Pi](https://www.raspberrypi.org/)
 
 I have also worked upon native OS Applications made using Electron framework.
 
@@ -47,7 +48,7 @@ I have also worked upon native OS Applications made using Electron framework.
 
 
 ## Other
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-%234b7186.svg?style=for-the-badge&logo=jenkins&logoColor=black">  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=white">  <img src="https://img.shields.io/badge/CMD-%23121011.svg?style=for-the-badge&logo=Windows%20Terminal&logoColor=white"> <img src="https://img.shields.io/badge/Pwsh-%23121011.svg?style=for-the-badge&logo=Powershell&logoColor=white"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/gitlab-%23F08533.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-%234b7186.svg?style=for-the-badge&logo=jenkins&logoColor=black">  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=white">  <img src="https://img.shields.io/badge/CMD-%23121011.svg?style=for-the-badge&logo=Windows%20Terminal&logoColor=white"> <img src="https://img.shields.io/badge/Pwsh-%232048CC.svg?style=for-the-badge&logo=Powershell&logoColor=white"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/gitlab-%23F08533.svg?style=for-the-badge&logo=gitlab&logoColor=white">
 
 
 ## OS
