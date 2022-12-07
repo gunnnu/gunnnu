@@ -46,18 +46,11 @@ I have also worked upon native OS Applications made using Electron framework.
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 
 ## IDE
-<img src="https://img.shields.io/badge/VS%20Code-%230082cf.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"> 
-<img src="https://img.shields.io/badge/Arduino%20IDE-%231b8f96.svg?&style=for-the-badge&logo=Arduino&logoColor=white"> 
+<img src="https://img.shields.io/badge/VS%20Code-%230082cf.svg?style=for-the-badge&logo=visual-studio&logoColor=white"> <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">  <img src="https://img.shields.io/badge/Arduino%20IDE-%231b8f96.svg?&style=for-the-badge&logo=Arduino&logoColor=white"> 
 
 
 ## Other
-<img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=GNU Bash&logoColor=white"> 
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> 
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/gitlab-%23F08533.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=GNU Bash&logoColor=white">  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/gitlab-%23F08533.svg?style=for-the-badge&logo=gitlab&logoColor=white">
 
 
 ## OS
