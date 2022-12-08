@@ -41,7 +41,7 @@ I have also worked upon native OS Applications made using Electron framework.
 
 
 ## Backend Frameworks 
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Fast%20API-%23121011.svg?style=for-the-badge&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 
 ## IDE
 <img src="https://img.shields.io/badge/VS%20Code-%230082cf.svg?style=for-the-badge&logo=visual-studio&logoColor=white"> <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">  <img src="https://img.shields.io/badge/Arduino%20IDE-%231b8f96.svg?&style=for-the-badge&logo=Arduino&logoColor=white"> 
@@ -49,6 +49,11 @@ I have also worked upon native OS Applications made using Electron framework.
 
 ## Other
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-%234b7186.svg?style=for-the-badge&logo=jenkins&logoColor=black">  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=white">  <img src="https://img.shields.io/badge/CMD-%23121011.svg?style=for-the-badge&logo=Windows%20Terminal&logoColor=white"> <img src="https://img.shields.io/badge/Pwsh-%232048CC.svg?style=for-the-badge&logo=Powershell&logoColor=white"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/gitlab-%23F08533.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+
+## Cloud Platforms
+
+<img src="https://img.shields.io/badge/Aws-%23242c38.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=f29100">
+<img src="https://img.shields.io/badge/Google Cloud-%231a63dc.svg?style=for-the-badge&logo=Google%20Cloud&logoColor=white"> 
 
 
 ## OS
