@@ -63,7 +63,7 @@ I have also worked upon native OS Applications made using Electron framework.
 
 # About Me 
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gunnnu&unique=1&width=420)](https://open.spotify.com/user/gunnnu)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gunnnu&unique=1)](https://open.spotify.com/user/gunnnu)
 
 <!--
 stars,commits,prs,issues,contribs
