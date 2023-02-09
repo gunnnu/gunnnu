@@ -59,11 +59,11 @@ I have also worked upon native OS Applications made using Electron framework.
 ## OS
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Kali-%23121011?style=for-the-badge&logo=kalilinux&logoColor=white">  
 
-=====
+---
 
-# About Me :
+# About Me 
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gunnnu&unique=1)](https://open.spotify.com/user/gunnnu)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gunnnu&unique=1&width=600)](https://open.spotify.com/user/gunnnu)
 
 <!--
 stars,commits,prs,issues,contribs
